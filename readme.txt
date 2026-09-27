@@ -70,11 +70,11 @@ The Status tab compares the current PHP, WordPress, and WooCommerce versions wit
 
 Detailed setup, provider configuration, form guides, and troubleshooting documentation:
 
-https://velukuberan.github.io/veekay-captcha-shield/
+[Veekay Captcha Shield documentation](https://velukuberan.github.io/veekay-captcha-shield/)
 
 Project source and technical documentation:
 
-https://github.com/velukuberan/veekay-captcha-shield
+[Veekay Captcha Shield on GitHub](https://github.com/velukuberan/veekay-captcha-shield)
 
 == Installation ==
 
@@ -89,17 +89,17 @@ https://github.com/velukuberan/veekay-captcha-shield
 **Provider setup**
 
 Cloudflare Turnstile:
-https://dash.cloudflare.com/?to=/:account/turnstile
+[Cloudflare Turnstile dashboard](https://dash.cloudflare.com/?to=/:account/turnstile)
 
 Google reCAPTCHA Enterprise:
-https://cloud.google.com/security/products/recaptcha
+[Google reCAPTCHA Enterprise](https://cloud.google.com/security/products/recaptcha)
 
 hCaptcha:
-https://www.hcaptcha.com/
+[hCaptcha](https://www.hcaptcha.com/)
 
 Detailed setup guides are available at:
 
-https://velukuberan.github.io/veekay-captcha-shield/
+[Veekay Captcha Shield documentation](https://velukuberan.github.io/veekay-captcha-shield/)
 
 == Frequently Asked Questions ==
 
@@ -203,7 +203,7 @@ See the **External services** section below for details.
 
 User documentation is available at:
 
-https://velukuberan.github.io/veekay-captcha-shield/
+[Veekay Captcha Shield documentation](https://velukuberan.github.io/veekay-captcha-shield/)
 
 == External services ==
 
@@ -222,16 +222,16 @@ When the protected form is submitted, Veekay Captcha Shield sends the generated 
 No form-field contents are intentionally included by Veekay Captcha Shield in the server-side Siteverify request.
 
 Service:
-https://www.cloudflare.com/products/turnstile/
+[Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/)
 
 Turnstile documentation:
-https://developers.cloudflare.com/turnstile/
+[Cloudflare Turnstile documentation](https://developers.cloudflare.com/turnstile/)
 
 Turnstile Privacy Addendum:
-https://www.cloudflare.com/turnstile-privacy-policy/
+[Cloudflare Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/)
 
 Cloudflare terms:
-https://www.cloudflare.com/website-terms/
+[Cloudflare Terms](https://www.cloudflare.com/website-terms/)
 
 === Google reCAPTCHA Enterprise ===
 
@@ -250,16 +250,16 @@ The assessment can include:
 The Google Cloud project ID and configured API key are used to authenticate the assessment request.
 
 Service:
-https://cloud.google.com/security/products/recaptcha
+[Google reCAPTCHA Enterprise](https://cloud.google.com/security/products/recaptcha)
 
 Documentation:
-https://cloud.google.com/recaptcha/docs
+[Google reCAPTCHA Enterprise documentation](https://cloud.google.com/recaptcha/docs)
 
 Google Cloud Terms of Service:
-https://cloud.google.com/terms
+[Google Cloud Terms of Service](https://cloud.google.com/terms)
 
 Google Cloud privacy information:
-https://cloud.google.com/privacy
+[Google Cloud Privacy](https://cloud.google.com/privacy)
 
 === hCaptcha ===
 
@@ -270,16 +270,16 @@ When the protected form is submitted, Veekay Captcha Shield sends the generated 
 No form-field contents are intentionally included by Veekay Captcha Shield in the server-side Siteverify request.
 
 Service:
-https://www.hcaptcha.com/
+[hCaptcha](https://www.hcaptcha.com/)
 
 Documentation:
-https://docs.hcaptcha.com/
+[hCaptcha documentation](https://docs.hcaptcha.com/)
 
 Privacy Policy:
-https://www.hcaptcha.com/privacy
+[hCaptcha Privacy Policy](https://www.hcaptcha.com/privacy)
 
 Terms of Service:
-https://www.hcaptcha.com/terms
+[hCaptcha Terms of Service](https://www.hcaptcha.com/terms)
 
 Site owners are responsible for reviewing the terms, privacy requirements, and configuration requirements of the CAPTCHA provider they choose to use.
 
@@ -297,11 +297,11 @@ Site owners are responsible for reviewing the terms, privacy requirements, and c
 
 Please report bugs and technical issues at:
 
-https://github.com/velukuberan/veekay-captcha-shield/issues
+[Report an issue on GitHub](https://github.com/velukuberan/veekay-captcha-shield/issues)
 
 User documentation and troubleshooting guides are available at:
 
-https://velukuberan.github.io/veekay-captcha-shield/
+[Veekay Captcha Shield documentation](https://velukuberan.github.io/veekay-captcha-shield/)
 
 == Changelog ==
 
